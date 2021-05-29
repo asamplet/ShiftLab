@@ -11,4 +11,6 @@
     <string name="surnameErrorText">Фамилия должна состоять из букв и не содежрать пробелов</string>
     <string name="pasErrorText">Пароль должен содержать цифры и символы верхего и нижнего регистра</string>
     <string name="passRepErrorText">Пароли должны совпадать</string>
+    <string name="backText">Назад</string>
+    <string name="helloText">Приветствие</string>
 </resources>
