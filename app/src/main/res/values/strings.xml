@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShiftLab</string>
+    <string name="Modal">Hello</string>
+    <string name="dateText">Дата</string>
+    <string name="regText">Регистрация</string>
+    <string name="repPasText">Повторите пароль</string>
+    <string name="pasText">Пароль</string>
+    <string name="surnameText">Фамилия</string>
+    <string name="nameText">Имя</string>
+    <string name="nameErrorText">Имя должно состоять из букв и не содежрать пробелов</string>
+    <string name="surnameErrorText">Фамилия должна состоять из букв и не содежрать пробелов</string>
+    <string name="pasErrorText">Пароль должен содержать цифры и символы верхего и нижнего регистра</string>
+    <string name="passRepErrorText">Пароли должны совпадать</string>
+</resources>
